@@ -3,7 +3,7 @@
 
 ### What you will find in this repo
 
-- Codes files of projects from our past meetups
+- Code files of projects from our past meetups
 - Slides
 - Plus other info.
 
